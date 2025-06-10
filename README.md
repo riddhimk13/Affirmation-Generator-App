@@ -1,1 +1,1 @@
-# Affirmation-Generator-App
+A simple and uplifting app that displays positive affirmations to boost your mood and mindset. With each click, it shows a new encouraging message to promote self-love, confidence, and motivation. Perfect for daily inspiration!
